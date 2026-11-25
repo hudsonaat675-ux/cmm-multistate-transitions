@@ -1,0 +1,12 @@
+# Code only: never commit data, results or local settings
+config.sh
+outputs/
+*.csv
+*.dta
+*.rds
+*.RData
+*.parquet
+*.xlsx
+*.pdf
+*.png
+.Rhistory
